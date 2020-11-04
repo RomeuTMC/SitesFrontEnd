@@ -60,7 +60,7 @@ $NOCACHE=uniqid();
 
             <div id='elenco' class="carousel-inner elenco">
                 <div class="carousel-caption d-none d-md-block">
-                    <h1>ELENCO</h1>
+                    <center><h1>ELENCO</h1></center>
                   </div>
             <div class="carousel-item active">
                 <center><img class="d-block w-25" src="elementos/elenco_val.png" alt="First slide"></center>
