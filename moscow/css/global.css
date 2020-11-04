@@ -1,0 +1,152 @@
+@font-face {
+    font-family: 'futuraxb';
+    src: url('FuturaXB.ttf');
+}
+
+body {
+	background-color: #000;
+	width: 100%;
+	font-family: futuraxb;
+}
+
+#principal{
+	margin: auto;
+}
+
+#mbanner{
+	margin: auto;
+}
+
+#preparado {
+	max-width: 80%;
+	margin: auto;
+	height: auto;
+	align-self: center;
+}
+
+.carousel-indicators li {
+	background-clip: border-box;
+	width:15px;
+	height: 5px;
+	border-radius: 10px;
+	border-top: 5px !important;
+	border-right: 10px !important;
+	background-color: #C00;
+	margin: 0 12px !important;
+}
+
+.carousel-indicators .active{
+	background-color: #FFF;
+}
+
+.carousel-control-next-icon{
+	background-image: url(./../elementos/setadir2.png) !important;
+}
+
+.carousel-control-prev-icon{
+	background-image: url(./../elementos/setaesq2.png) !important;
+}
+
+.carousel-control-prev {
+	top:10% !important;
+	margin-left: 28%;
+}
+
+.carousel-control-next {
+	top:10% !important;
+	margin-right: 28%;
+}
+
+#redesocial {
+	position: fixed;
+	bottom: 10px;
+	right:35px;
+	z-index:999;
+}
+
+.redes {
+	margin: 2px;
+	width: 29px;
+	border-radius: 20px;
+	box-shadow: 0 0 6px 2px #000;
+}
+
+.namidia{
+	height: 65px !important;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-red, .btn-red:hover{
+	background-color: #900 !important;
+	border-color: #800;
+	width: auto;
+	box-shadow: 0 0 13px #111;
+	align-content: center;
+}
+
+.carousel-caption {
+    top: 15%;
+    bottom: auto;
+}
+
+.carousel-item {
+    text-align: center !important;
+}
+#main {
+	margin: auto; background-image: url(./../images/moscow_bg.jpg); background-repeat: no-repeat; background-size: cover;
+}
+
+#smain {
+	margin:auto;
+}
+
+.space{
+	height: 50px;
+}
+#elenco.carousel-inner {
+	width: 25%;		
+}
+#elenco.carousel-inner img {
+	width: 100% !important;		
+}
+
+#CarrousselElenco{
+	background-image: url(./../elementos/bg_elenco.png); background-repeat: no-repeat; background-size: 100%; background-position: center;
+}
+
+#midia{
+	width: auto; 
+	justify-content: space-between; 
+	background: url(./../elementos/midiat1.png) no-repeat 50% 40%; 
+	background-size:contain;
+}
+
+.noticias{
+	display: flex; 
+	justify-content: space-around;
+}
+
+.noticia{
+	padding: 5%; 
+	width: 33%;
+}
+
+.noticia img{
+	width: 83%;
+}
+
+.equipe{
+ color: #bbb;
+}
+.equipeh{
+	color: #bbb;
+	font-size:1.2em;
+}
+
+#equipe {
+	max-width: 100%;
+	margin: auto;
+	height: auto;
+	align-self: center;
+}
