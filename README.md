@@ -15,10 +15,10 @@ Conheça nosso [Código de Conduta](./.github/CODE_OF_CONDUCT.md) para entender 
 Leia nossa [Politica de Segurança e Privacidade](./.github/SECURITY.md) para saber como lidamos com seus dados, com o report de bugs e falhas de segurança.
 
 # O Que Está Sendo Feito
-Acompanhe o andamento do projeto e o escopo de cada funcionalidade nas nossas [Issues](https://github.com/RomeuTMC/Jukefy/issues) do Git Hub, utilize essa ferramenta também para solicitar novas funcionalidades e ferramentas.
+Acompanhe o andamento do projeto e o escopo de cada funcionalidade nas nossas [Issues](https://github.com/RomeuTMC/SitesFrontEnd/issues) do Git Hub, utilize essa ferramenta também para solicitar novas funcionalidades e ferramentas.
 
 # Manual e Wiki
-Acompanhe no [Wiki](https://github.com/RomeuTMC/Jukefy/wiki) o nosso manual, tutoriais, instalação e outros detalhes de ajuda na instalação, configuração e utilização.
+Acompanhe no [Wiki](https://github.com/RomeuTMC/SitesFrontEnd/wiki) o nosso manual, tutoriais, instalação e outros detalhes de ajuda na instalação, configuração e utilização.
 
 # Outros Detalhes
 Leia assuntos relacionados a este e outros projetos coligados, conheça a equipe de desenvolvedores do projeto no nosso link de [OUTROS ASSUNTOS](./.github/OTHER.md).
