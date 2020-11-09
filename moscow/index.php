@@ -57,17 +57,19 @@ $NOCACHE=uniqid();
         <!-- FIM do alerta VOCE ESTA PREPARADO -->
         <!-- INICIO ELENCO -->
         <div id="CarrousselElenco" class="carousel slide d-flex justify-content-center" data-interval="false" data-ride="carousel">
-
             <div id='elenco' class="carousel-inner elenco">
                 <div class="carousel-caption d-none d-md-block">
-                    <center><h1>ELENCO</h1></center>
-                  </div>
-            <div class="carousel-item active">
-                <center><img class="d-block w-25" src="elementos/elenco_val.png" alt="First slide"></center>
-            </div>
-            <div class="carousel-item">
-                <center><img class="d-block w-25" src="elementos/elenco_tony.png" alt="Second slide"></center>
-            </div>
+                    &nbsp;
+                </div>
+                <div class="carousel-item active">
+                    <center><img class="d-block w-25" src="elementos/elenco_val.png" alt="Thaila Ayala - VAL"></center>
+                </div>
+                <div class="carousel-item">
+                    <center><img class="d-block w-25" src="elementos/elenco_tony.png" alt="Werner Schünemann - TONY"></center>
+                </div>
+                <div class="carousel-item">
+                    <center><img class="d-block w-25" src="elementos/elenco_theo.png" alt=""></center>
+                </div>
             </div>
             <a class="carousel-control-prev" href="#CarrousselElenco" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
