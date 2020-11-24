@@ -11,6 +11,7 @@ $NOCACHE=uniqid();
         <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
         <meta http-equiv="expires" content="Sun, 01 Jan 2014 00:00:00 GMT"/>
         <meta http-equiv="pragma" content="no-cache" />
+        <meta author="Romeu Gomes de Sousa"/>
         <title>Moscow - O Filme</title>
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;700&display=swap" rel="stylesheet">
         <link rel="stylesheet"
@@ -70,6 +71,30 @@ $NOCACHE=uniqid();
                 <div class="carousel-item">
                     <center><img class="d-block w-25" src="elementos/elenco_theo.png" alt=""></center>
                 </div>
+                <div class="carousel-item">
+                    <center><img class="d-block w-25" src="elementos/elenco_giu.png" alt=""></center>
+                </div>
+                <div class="carousel-item">
+                    <center><img class="d-block w-25" src="elementos/elenco_lud.png" alt=""></center>
+                </div>
+                <div class="carousel-item">
+                    <center><img class="d-block w-25" src="elementos/elenco_nina.png" alt=""></center>
+                </div>
+                <div class="carousel-item">
+                    <center><img class="d-block w-25" src="elementos/elenco_martin.png" alt=""></center>
+                </div>
+                <div class="carousel-item">
+                    <center><img class="d-block w-25" src="elementos/elenco_wally.png" alt=""></center>
+                </div>
+                <div class="carousel-item">
+                    <center><img class="d-block w-25" src="elementos/elenco-numeros.png" alt=""></center>
+                </div>
+                <div class="carousel-item">
+                    <center><img class="d-block w-25" src="elementos/elenco_suspeito.png" alt=""></center>
+                </div>
+                <div class="carousel-item">
+                    <center><img class="d-block w-25" src="elementos/elenco_cris.png" alt=""></center>
+                </div>
             </div>
             <a class="carousel-control-prev" href="#CarrousselElenco" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -83,7 +108,7 @@ $NOCACHE=uniqid();
         <!-- FIM ELENCO -->
         <!-- Inicio NA MIDIA -->
         <div class='space'>&nbsp;</div>
-        <div class='namidia'><span class='btn btn-danger btn-red'><h1>NA M&Iacute;DIA</h1></span></div>
+        <center><img src="elementos/namidia.png" class="namidia"></center>
         <div id='midia'>
         <div id='noticias' class='d-flex w-100'>
             <div class='noticia'>

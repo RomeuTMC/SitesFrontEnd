@@ -1,3 +1,4 @@
+/* Author: Romeu Gomes de Sousa */
 @font-face {
     font-family: 'futuraxb';
     src: url('FuturaXB.ttf');
@@ -19,6 +20,7 @@ body {
 
 #preparado {
 	max-width: 80%;
+	min-width: 300px;
 	margin: auto;
 	height: auto;
 	align-self: center;
@@ -72,9 +74,8 @@ body {
 }
 
 .namidia{
-	height: 65px !important;
-    display: flex;
-    justify-content: center;
+	width: 28%;
+	min-width: 200px;
 }
 
 .btn-red, .btn-red:hover{
@@ -102,17 +103,17 @@ body {
 }
 
 .space{
-	height: 50px;
+	height: 35px;
 }
 #elenco.carousel-inner {
-	width: 25%;		
+	width: 25%;	
 }
 #elenco.carousel-inner img {
 	width: 100% !important;		
 }
 
 #CarrousselElenco{
-	background-image: url(./../elementos/bg_elenco.png); background-repeat: no-repeat; background-size: 100%; background-position: center;
+	background-image: url(./../elementos/bg_elenco.png); background-repeat: no-repeat; background-size: 40%; background-position: center;
 }
 
 #midia{
@@ -138,6 +139,7 @@ body {
 
 .equipe{
  color: #bbb;
+ min-width: 300px;
 }
 .equipeh{
 	color: #bbb;
@@ -149,4 +151,16 @@ body {
 	margin: auto;
 	height: auto;
 	align-self: center;
+}
+
+@media (max-width: 600px) {
+	#CarrousselElenco {
+		background-image: url(./../elementos/bg_elenco.png);
+		background-repeat: no-repeat;
+		background-size: 60%;
+		background-position: center;
+	}
+	#elenco.carousel-inner {
+		width: 33%;
+	}
 }
